@@ -19,7 +19,7 @@ int main()
 	print_fx(4 * x, y4);
 
 
-	return 50;
+	return 0;
 }
 
 int32_t f(int32_t x)
